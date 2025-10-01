@@ -4,7 +4,7 @@
 
 ---
 
-## 🛠️ Bahasa yang Sedang Dipelajari
+## Bahasa yang Sedang Dipelajari
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
