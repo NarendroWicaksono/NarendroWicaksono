@@ -1,6 +1,6 @@
-# 👋 Halo, saya Narendro Gung Wicaksono  
+# Hi, saya Narendro Gung Wicaksono  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F700&width=435&lines=Mahasiswa+Informatika+UNSOED;Belajar+C%2C+C%2B%2B%2C+Python%2C+MySQL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F700&width=435&lines=Informatics+student;Belajar+C%2C+C%2B%2B%2C+Python%2C+MySQL)](https://git.io/typing-svg)
 
 ---
 
