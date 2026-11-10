@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="LINK_GIF_GOJO" width="320" alt="Gojo Satoru" />
+<img src="gojo.gif" width="320" alt="Gojo Satoru" />
 
 # Hi, I'm Narendro Gung Wicaksono 
 
